@@ -1,0 +1,14 @@
+[{
+  "type":"group",
+  "title": "Common",
+  "items":[{
+    "title": "Hour of Day",
+    "type":"textfield",
+    "key":"hour"
+  }, {
+    "title":"Debug",
+    "type":"toggle",
+    "default":false,
+    "key":"debug"
+  }]
+}]
