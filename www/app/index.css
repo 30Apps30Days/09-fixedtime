@@ -58,3 +58,22 @@ footer a {
 }
 
 .mdl-layout__content { overflow: hidden; }
+
+#zone {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+
+  max-width: 90%;
+  max-height: 90%;
+  width: 100%;
+  height: auto;
+
+  font-size: 15vmin;
+  line-height: 1.1;
+
+  text-align: center;
+
+  cursor: default;
+}
